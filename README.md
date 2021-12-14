@@ -6,5 +6,5 @@ a novel application of the Stroop task.
 
 ## File description
 - data_dictionary.csv - Dictionary for the variables in the four descriptive statistics files
-- [nameColour/nameWord]_descriptivestats_[cong/incong].csv - reaction time data and error rates used in the analysis
+- [nameColour/nameWord]'_descriptivestats_'[cong/incong].csv - reaction time data and error rates used in the analysis
 - Stroop participants–demographic_data.csv - demographic data (only used for age and sex calculations)
