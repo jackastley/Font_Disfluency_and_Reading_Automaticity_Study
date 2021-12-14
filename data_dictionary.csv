@@ -1,0 +1,10 @@
+﻿Column Name,Description
+mean,mean reaction time
+standard deviation,standard deviation of their reaction times
+error rate,percentage of incorrect responses on the paradigm
+mean_[L1/2/3/4],"mean reaction time for disfluency level 1,2,3 or 4"
+sd_[L1/2/3/4],"standard deviation  of reaction times for for disfluency level 1,2,3 or 4"
+session,session ID from Gorilla
+ID,Unique identifier number
+congruency,"cong = congruent, incong = incongruent"
+condition,"task condition. nameColour=colour identification, nameWord=word reading"
